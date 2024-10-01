@@ -2,7 +2,6 @@
 
 This project is to demonstrate implementation of a complete CICD pipeline. Jenkins is used for CI, Sonarqube is for static code analysis, 
 ArgoCD is used for continuous delivery and the application is deployed in a local kubernetes cluster
-app is deployed in  
 
 ## **Setting up project environment** 
 
